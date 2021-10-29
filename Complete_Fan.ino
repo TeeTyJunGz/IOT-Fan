@@ -1,4 +1,3 @@
-
 #define BLYNK_PRINT Serial
 #include <SPI.h>
 #include <DHT.h>
